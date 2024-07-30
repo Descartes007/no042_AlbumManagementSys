@@ -1,0 +1,105 @@
+BODY {
+	BACKGROUND-IMAGE:  TEXT-ALIGN: center; MARGIN: 0px; BACKGROUND-REPEAT: repeat; FONT-SIZE: 12px
+}
+.bk {
+	BORDER-BOTTOM: #dfdfdf 1px solid; BORDER-LEFT: #dfdfdf 1px solid; BACKGROUND: #ffffff; BORDER-TOP: #dfdfdf 1px solid; BORDER-RIGHT: #dfdfdf 1px solid
+}
+A {
+	COLOR: #333; TEXT-DECORATION: none
+}
+.mt {
+	MARGIN-TOP: 12px
+}
+.meun {
+	WIDTH: 70px; COLOR: #fff; FONT-WEIGHT: bold
+}
+.meun A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 20px;DISPLAY: block; BACKGROUND: url(../photoalbum_files/meun.jpg); FLOAT: left; HEIGHT: 28px; COLOR: #fff; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.min {
+	MARGIN-TOP: 5px; FLOAT: left; MARGIN-LEFT: 20px
+}
+.min1 {
+	MARGIN-TOP: 5px; FLOAT: left; MARGIN-LEFT: 30px
+}
+.meun A:link {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.meun A:visited {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.meun A:hover {
+	BACKGROUND: url(../photoalbum_files/cs.jpg); HEIGHT: 28px; COLOR: #fff; CURSOR: pointer
+}
+.sy {
+	LINE-HEIGHT: 20px; COLOR: #000000; TEXT-DECORATION: none
+}
+.sy A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.sy A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.sy A:hover {
+	COLOR: #993300; TEXT-DECORATION: underline
+}
+.bt {
+	COLOR: #ffffff; FONT-WEIGHT: bold
+}
+.ls {
+	LINE-HEIGHT: 20px; COLOR: black; TEXT-DECORATION: none
+}
+.ls A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.ls A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.ls A:hover {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+.hs {
+	COLOR: #bb0000; FONT-WEIGHT: bold
+}
+.hs A:link {
+	COLOR: #bb0000; TEXT-DECORATION: none
+}
+.hs A:visited {
+	COLOR: #bb0000; TEXT-DECORATION: none
+}
+.hs A:hover {
+	COLOR: #bb0000; TEXT-DECORATION: underline
+}
+.t5 {
+	MARGIN-TOP: 4px
+}
+.new {
+	LINE-HEIGHT: 20px; COLOR: #ffffff
+}
+.new A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.new A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.new A:hover {
+	TEXT-DECORATION: underline; ccolor: #FFFFFF
+}
+.bt1 {
+	COLOR: #000000; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.xh {
+	BORDER-BOTTOM: #ccc 1px dotted
+}
+.x {
+	BORDER-BOTTOM: #fff 1px dotted
+}
+.menu {
+	MARGIN: 0px auto; WIDTH: 880px; HEIGHT: 28px
+}
+.menu A {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: #fff 1px solid; LINE-HEIGHT: 28px; WIDTH: 99.7px; DISPLAY: block; BACKGROUND: url(../photoalbum_files/112cd_3.jpg) no-repeat; FLOAT: left; HEIGHT: 28px; COLOR: #222; MARGIN-LEFT: 1px; OVERFLOW: hidden; BORDER-TOP: medium none; BORDER-RIGHT: #fff 1px solid; _margin-left: 0px
+}
+.menu A:hover {
+	COLOR: #555; TEXT-DECORATION: none
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1.7//EN" "struts-2.1.7.dtd" >
+<struts>
+    <package name="default"  extends="json-default">   
+        <action name="sysaction" class="control.SysAction">
+          <result  name="default">/admin/default.jsp</result> 
+          <result  name="index">/index.jsp</result> 
+          <result  name="login">/login.jsp</result> 
+          <result  name="regedit">/regedit.jsp</result> 
+          <result  name="orderss">/admin/orderss.jsp</result> 
+          <result  name="pinlun">/admin/pinlun.jsp</result> 
+          <result  name="pros">/admin/pros.jsp</result> 
+          <result  name="pupdatesysusers">/admin/pupdatesysusers.jsp</result> 
+          <result  name="defauscjslt">/admin/scjs.jsp</result> 
+          <result  name="splb">/admin/splb.jsp</result> 
+          <result  name="sysusers">/admin/sysusers.jsp</result> 
+          <result  name="tslbgl">/admin/tslbgl.jsp</result> 
+          <result  name="txlcx">/admin/txlcx.jsp</result> 
+          <result  name="txltj">/admin/txltj.jsp</result> 
+          <result  name="txlxg">/admin/txlxg.jsp</result> 
+          <result  name="updategg">/admin/updategg.jsp</result> 
+          <result  name="updatenews">/admin/updatenews.jsp</result> 
+        </action>   
+    </package>  
+     
+</struts>
+
+
+
