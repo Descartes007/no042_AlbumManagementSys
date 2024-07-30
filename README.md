@@ -1,4 +1,4 @@
-<p><h1 align="center">基于SSM框架的教务管理系统</h1></p>
+<p><h1 align="center">基于JavaWeb的相册管理系统</h1></p>
 
 <p> 获取sql文件 QQ: 605739993 QQ群: 377586148 </p>
 
