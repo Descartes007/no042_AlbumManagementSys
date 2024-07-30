@@ -4,7 +4,7 @@
 
 <b> 需要视频演示可联系上述QQ，私发视频链接 </b>
 
-<p> [个人站点: 从戎源码网](https://mzoocodes.com/)</p>
+<p> [个人站点: 从戎源码网](https://armycodes.com/)</p>
 
 ## 简介
 
